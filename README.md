@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Im currently working on a self administered website for the departament of humanity and a functionality for Livepanel that lets you know the quality of a dataset based on questionnaires.
+
+Also im finnishing my degree in the UNS with the title of Engineering in information systems.
+
+
+
 <!--
 **SaintRoguer/SaintRoguer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
